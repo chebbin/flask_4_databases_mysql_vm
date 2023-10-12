@@ -38,13 +38,11 @@ Connect to MySQL workbench
 ![Screen Shot 2023-10-12 at 00 57 00](https://github.com/chebbin/flask_4_databases_mysql_vm/assets/141374142/1ab93480-f3ed-4cc1-be52-928ee8a7f416)
 
 ## Database created on MySql Workbench
-Code provided from previous class reused  
+Created sql file for database chevihw  
+Two tables- giftlist and guestlist  
+One to many schema chosen as one guest can provide more than one gift  
 
-![Screen Shot 2023-10-12 at 01 19 58](https://github.com/chebbin/flask_4_databases_mysql_vm/assets/141374142/5058d29a-7b9c-4dae-a7c5-11a793b16363)
-
-
-![Screen Shot 2023-10-12 at 01 18 24](https://github.com/chebbin/flask_4_databases_mysql_vm/assets/141374142/5d9e72e9-5e5f-4184-a163-71a9e4bc0b34)
-
+![Screen Shot 2023-10-12 at 08 54 01](https://github.com/chebbin/flask_4_databases_mysql_vm/assets/141374142/7647b8eb-1b29-4ed7-93dc-549e312ee4f2)
 
 ## VM on GCP
 Select project called chevi-504-hw4
